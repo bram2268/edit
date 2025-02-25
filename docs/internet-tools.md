@@ -481,6 +481,7 @@
 * ⭐ **[Zemail](https://zemail.me/)** - Gmail / Forever / 1 Day / 7 Domains
 * ⭐ **[Gmailnator](https://emailnator.com/)** - Gmail / Forever / 1 Day / 6 Domains
 * ⭐ **[Tempr.email](https://tempr.email/en/)** - Forever / 1 Month / 50+ Domains
+* ⭐ **[Tempinbox.xyz](https://www.tempinbox.xyz)** - Forever / 1 Day / 5+ Domains
 * ⭐ **[Inboxes](https://inboxes.com/)** - Forever / 7 Days / 19 Domains
 * ⭐ **[Mail.tm](https://mail.tm/)** - Forever / 7 Days / 1 Domain
 * ⭐ **[temp-mail.org](https://temp-mail.org/)** - Forever / 2 Hours / N/A / [Telegram Bot](https://t.me/TempMail_org_bot)
